@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ThangAG1.aternos.me",
+    "ip": 
     "port": 64000,
     "version": "1.21.1",
     "try-creative": false
